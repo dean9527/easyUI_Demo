@@ -1,1 +1,2 @@
-easyUI form表单提交学习
+EasyUI form表单提交学习
+增加EasyUI messager的学习
