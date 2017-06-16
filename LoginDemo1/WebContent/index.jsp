@@ -5,14 +5,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<link rel="stylesheet" type="text/css" href="/LoginDemo/css/themes/default/easyui.css">
-	<link rel="stylesheet" type="text/css" href="/LoginDemo/css/themes/color.css">
-	<script type="text/javascript" src="/LoginDemo/js/jquery-1.7.2.min.js"></script>
-	<script type="text/javascript" src="/LoginDemo/js/jquery.easyui.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="/LoginDemo1/css/themes/default/easyui.css">
+	<link rel="stylesheet" type="text/css" href="/LoginDemo1/css/themes/color.css">
+	<script type="text/javascript" src="/LoginDemo1/js/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="/LoginDemo1/js/jquery.easyui.min.js"></script>
 	<script type="text/javascript">
 		$(document).ready(function(){
 			$("#loginForm").form({
-				url:"/LoginDemo/login",
+				url:"/LoginDemo1/login",
 				onSubmit:function(){
 					//alert("先做验证表单参数合法！");
 					//$.messager.alert('Warning','警告这里在做表单验证');
